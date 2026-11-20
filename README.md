@@ -7,6 +7,7 @@ Lightweight task app: Flask API + Vite/React UI, runnable with Docker Compose.
 ```bash
 docker-compose up --build
 ```
+#macOS: if port 5000 is already in use, turn off AirPlay Receiver (System Settings → General → AirDrop & Handoff)
 
 Then open **http://localhost:3000**.
 
